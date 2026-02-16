@@ -1,3 +1,31 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables and libraries
+*.out
+*.exe
+*.a
+*.so
+
+# Build directories
+build/
+bin/
+
+# macOS
+.DS_Store
+
+# Debug symbols
+*.dSYM/
+
+# Editor temporary files
+*.swp
+*~
+.vscode/
+
+# Logs
+*.log
+
 # Prerequisites
 *.d
 
